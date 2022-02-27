@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A passionate web developer.</h3>
+<h3 align="left">A passionate web developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
