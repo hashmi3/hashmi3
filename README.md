@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Muhammad Hashmi here.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/m-hashmi/"> LinkedIn</a> </h3>
 <p align="left">
 </p>
 
